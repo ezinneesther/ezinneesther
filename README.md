@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ezinneesther
-- 👀 I’m interested in data analysis and frontend web development 
-- 🌱 I’m currently learning frontend web development 
+- 👀 I’m interested in data analysis and Data Sciecnce
+- 🌱 I have over 3 years of experience as an analyst
 - 💞️ I’m looking to collaborate on projects on the aforementioned interests
 - 📫 How to reach me 
 - 📧 Email esthaar019@gmail.com
