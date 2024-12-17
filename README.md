@@ -11,7 +11,6 @@
 - **Data Visualization**: Tableau | Power BI | Matplotlib | Seaborn  
 - **Machine Learning**: Scikit-learn | TensorFlow | PyTorch  
 - **ETL Tools**: pandas | NumPy | Apache Airflow  
-- **Cloud**: AWS (S3, EC2), Google Cloud  
 - **Other Tools**: Excel, Jupyter Notebook, Git  
 
 🚀 **Key Projects**  
