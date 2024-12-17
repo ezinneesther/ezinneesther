@@ -1,46 +1,43 @@
-👋 Hi there, I'm **Ezinne Esther Madukairo**!  
+<!-- Minimalist GitHub Profile -->
 
-🎯 **About Me**  
-- 📊 **Data Analyst | Data Scientist**  
-- 🏆 Google & IBM Certified Data Professional  
-- 🏢 **Experience**: 5+ years transforming data into actionable insights across Real Estate 🏠, Energy ⚡, and FinTech 💻 industries  
-- 🛠️ **Specialties**: ETL Pipelines, Statistical Analysis, Machine Learning, Data Visualization  
+# 👋 Hello, I'm **Ezinne Esther Madukairo**
 
-🔧 **My Toolbox**  
-- **Programming**: Python | R | SQL (MySQL, SQL Server)  
-- **Data Visualization**: Tableau | Power BI | Matplotlib | Seaborn  
-- **Machine Learning**: Scikit-learn | TensorFlow | PyTorch  
-- **ETL Tools**: pandas | NumPy | Apache Airflow  
-- **Other Tools**: Excel, Jupyter Notebook, Git  
+A **Data Analyst | Data Scientist** with a passion for transforming complex datasets into actionable insights.
 
-🚀 **Key Projects**  
-1. **Real Estate Housing Market Analysis**  
-   - Improved ROI by **20%** for real estate investments using predictive models.  
+---
 
-2. **Energy Cost Optimization**  
-   - Achieved a **30% reduction** in energy costs through advanced statistical modeling and machine learning.  
+### 💡 **Key Skills**
+- **Languages**: Python | SQL | R  
+- **Tools**: Pandas | NumPy | Tableau | Power BI | Scikit-Learn  
+- **Specialties**: ETL, Statistical Analysis, Machine Learning  
 
-3. **FinTech Data Pipeline Automation**  
-   - Automated ETL pipelines with Python and SQL to achieve seamless data workflows.  
+---
 
-4. **Chatbot Development**  
-   - Built a Python-based appointment scheduling bot for task automation and NLP learning.  
+### 📊 **GitHub Stats**
 
-📚 **Certifications**  
-- [Google Data Analytics Professional Certificate](https://coursera.org)  
-- [IBM Data Science Professional Certificate](https://coursera.org)  
-- Building Chatbots with Python (DataCamp)  
+![Ezinne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=light&hide=stars,issues)
 
-🎓 **Education**  
-- Bachelor’s Degree in Statistics 🎓   
+---
 
-📬 **Let’s Connect**:  
-- **LinkedIn**: [linkedin.com/in/ezinne-madukairo](https://www.linkedin.com/in/ezinneesther/)  
-- **Email**: [your.email@gmail.com](ezinnemadukairo@gmail.com)  
+### 🏆 **Top Languages**
 
-💡 "The impossible and most difficult tasks are always **doable**." 🚀  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=light)
 
-<!---
-ezinneesther/ezinneesther is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### ✨ **Badges**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+
+---
+
+### 📫 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+---
+
+**Let's explore data, uncover insights, and create value!** 🚀
