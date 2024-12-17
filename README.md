@@ -11,20 +11,6 @@ A **Data Analyst | Data Scientist** with a passion for transforming complex data
 - **Tools**: Pandas | NumPy | Tableau | Power BI | Scikit-Learn  
 - **Specialties**: ETL, Statistical Analysis, Machine Learning  
 
----
-
-### 📊 **GitHub Stats**
-
-![Ezinne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=light&hide=stars,issues)
-
----
-
-### 🏆 **Top Languages**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=light)
-
----
-
 ### ✨ **Badges**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -35,8 +21,8 @@ A **Data Analyst | Data Scientist** with a passion for transforming complex data
 ---
 
 ### 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezinneesther/)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](ezinnemadukairo@gmail.com)
 
 ---
 
