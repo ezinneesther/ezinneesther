@@ -19,4 +19,4 @@ A **Data Analyst | Data Scientist** with a passion for transforming complex data
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezinneesther/)
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](ezinnemadukairo@gmail.com)
 
-**Let's explore data, uncover insights, and create value!** 🚀
+**Let's explore data, uncover insights, and create value!** 
